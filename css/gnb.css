@@ -35,7 +35,7 @@
     height: 40px;
     background-color: white;
     border-radius: 2px;
-    padding: 1px;
+    padding: 10px;
 }
 .search-box > input {
     width: 80%;
